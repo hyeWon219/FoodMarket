@@ -80,6 +80,26 @@ insert into tbl_product values(seq_food.nextval, '건조 버섯', 'dried', '건�
 insert into tbl_product values(seq_food.nextval, '건조 파인애플', 'dried', '건조한 파인애플입니다.', 12700, 'product-78.jpg');
 insert into tbl_product values(seq_food.nextval, '감말랭이(500g)', 'dried', '달콤한 감말랭이입니다.', 11500, 'product-79.jpg');
 insert into tbl_product values(seq_food.nextval, '배말랭이(35g)', 'dried', '맛있는 배말랭이입니다.', 9850, 'product-80.jpg');
+insert into tbl_product values(seq_food.nextval, '셀러리', 'vegetable', '신선한 셀러리입니다.', 4000, 'product-81.jpg');
+insert into tbl_product values(seq_food.nextval, '오이', 'vegetable', '신선한 오이입니다.', 1420, 'product-82.jpg');
+insert into tbl_product values(seq_food.nextval, '늙은 호박', 'vegetable', '달달하고 커다란 늙은 호박입니다.', 12900, 'product-83.jpg');
+insert into tbl_product values(seq_food.nextval, '양송이버섯', 'vegetable', '신선한 양송이버섯입니다.', 5600, 'product-84.jpg');
+insert into tbl_product values(seq_food.nextval, '양배추', 'vegetable', '신선한 양배추입니다.', 3990, 'product-85.jpg');
+insert into tbl_product values(seq_food.nextval, '망고', 'fruit', '신선한 망고입니다.', 8900, 'product-86.jpg');
+insert into tbl_product values(seq_food.nextval, '망고스틴', 'fruit', '신선한 망고스틴입니다.', 5000, 'product-87.jpg');
+insert into tbl_product values(seq_food.nextval, '블루베리(125g)', 'fruit', '신선한 블루베리입니다.', 4740, 'product-88.jpg');
+insert into tbl_product values(seq_food.nextval, '멜론', 'fruit', '신선한 멜론입니다.', 37900, 'product-89.jpg');
+insert into tbl_product values(seq_food.nextval, '참외', 'fruit', '신선한 참외입니다.', 1850, 'product-90.jpg');
+insert into tbl_product values(seq_food.nextval, '무화과(1kg)', 'fruit', '신선한 무화과입니다.', 9800, 'product-91.jpg');
+insert into tbl_product values(seq_food.nextval, '용과(500g)', 'fruit', '신선한 용과입니다.', 3510, 'product-92.jpg');
+insert into tbl_product values(seq_food.nextval, '골드 키위(2kg)', 'fruit', '신선하고 달달한 골드 키위입니다.', 17900, 'product-93.jpg');
+insert into tbl_product values(seq_food.nextval, '코코넛', 'fruit', '신선한 코코넛입니다.', 1900, 'product-94.jpg');
+insert into tbl_product values(seq_food.nextval, '두리안', 'fruit', '신선한 두리안입니다.', 9800, 'product-95.jpg');
+insert into tbl_product values(seq_food.nextval, '순무(5kg)', 'vegetable', '신선한 순무입니다.', 25000, 'product-96.jpg');
+insert into tbl_product values(seq_food.nextval, '아보카도', 'vegetable', '신선한 아보카도입니다.', 8900, 'product-97.jpg');
+insert into tbl_product values(seq_food.nextval, '콩나물(400g)', 'vegetable', '신선한 콩나물입니다.', 2470, 'product-98.jpg');
+insert into tbl_product values(seq_food.nextval, '냉이(500g)', 'vegetable', '신선한 냉이입니다.', 7500, 'product-99.jpg');
+insert into tbl_product values(seq_food.nextval, '연근(1kg)', 'vegetable', '신선한 연근입니다.', 8000, 'product-100.jpg');
 
 commit;
 
